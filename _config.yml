@@ -21,7 +21,7 @@ repository               : "git@github.com:invisib1eman/Dingwen-Qian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "profile.png"
   name             : "Dingwen Qian"
   pronouns         : # example: "she/her"  
   bio              : ""
