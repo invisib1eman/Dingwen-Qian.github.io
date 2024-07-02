@@ -12,7 +12,7 @@ title                    : "Dingwen Qian"
 title_separator          : "-"
 name                     : &name "Dingwen Qian"
 description              : &description ""
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://invisib1eman.github.io/Dingwen-Qian.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "invisib1eman/Dingwen-Qian.github.io"
 
@@ -21,7 +21,7 @@ repository               : "invisib1eman/Dingwen-Qian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "dingwen-bio.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
