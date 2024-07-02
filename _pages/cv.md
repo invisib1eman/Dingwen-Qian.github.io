@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% /files/CV_Dingwen-Qian.pdf %}
+{% /files/CV_Dingwen_Qian.pdf %}
 
 
