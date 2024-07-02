@@ -12,10 +12,10 @@ I am a soft matter theorist with broad interest in self assembly, nonequilibrium
 
 Currently, I work with problems in the field of soft matter physics related to three main topics : 
 
-Complex nucleation theory in reticular chemistry
+-Complex nucleation theory in reticular chemistry
 
-Transport in charged systems, including polyelectrolyte gel and charged colloidal suspensions
+-Transport in charged systems, including polyelectrolyte gel and charged colloidal suspensions
 
-Chemical and physical properties of membranes
+-Chemical and physical properties of membranes
 
-For some more information about me, please see my CV. 
+For some more information about me, please see my [CV](http://invisib1eman.github.io/Dingwen-Qian.github.io/files/CV_Dingwen_Qian.pdf). 
