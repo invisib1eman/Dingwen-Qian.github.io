@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% /files/CV_Dingwen_Qian.pdf %}
-
+{% include base_path %}
 
