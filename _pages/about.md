@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a postdoctoral researcher in the McKetta Departmenet of Chemical Engineering at the University of Texas at Austin, working with Prof. Thomas Truskett. I received my PhD degree in Applied Physics at Northwestern University, under the supervision of Prof. Monica Olvera de la Cruz.
+
 I am a soft matter theorist with broad interest in self assembly, nonequilibrium statistical mechanics and chemical physics.
 
 Currently, I work with problems in the field of soft matter physics related to three main topics : 
